@@ -1,0 +1,1013 @@
+1
+00:00:10,920 --> 00:00:17,390
+<b><i>Reach out your hand and cut through the wind</i></b>
+
+2
+00:00:10,920 --> 00:00:17,390
+<b>{\an8}<i>iza te wo nobashite kaze wo kirisaite</i></b>
+
+3
+00:00:17,430 --> 00:00:22,020
+<b><i>Draw your own map</i></b>
+
+4
+00:00:17,430 --> 00:00:22,020
+<b>{\an8}<i>onore no chizu wo egaite yuke</i></b>
+
+5
+00:00:26,940 --> 00:00:33,240
+<b><i>As we live our days just like the stormy seas</i></b>
+
+6
+00:00:26,940 --> 00:00:33,240
+<b>{\an8}<i>migi mo hidari mo guchagucha ni areta umi no youna jidai</i></b>
+
+7
+00:00:33,280 --> 00:00:39,330
+<b><i>Even the values we had built up were about to fall apart</i></b>
+
+8
+00:00:33,280 --> 00:00:39,330
+<b>{\an8}<i>kizukiageta kachikan sae mo kuzuresarou to shita</i></b>
+
+9
+00:00:40,040 --> 00:00:46,330
+<b><i>Who knows if the compass is pointing in the right direction?</i></b>
+
+10
+00:00:40,040 --> 00:00:46,330
+<b>{\an8}<i>rashinban no sashita saki ga tadashii no ka douka nante</i></b>
+
+11
+00:00:46,380 --> 00:00:49,920
+<b><i>No one knows for certain</i></b>
+
+12
+00:00:46,380 --> 00:00:49,920
+<b>{\an8}<i>douse dare ni mo wakaranainda</i></b>
+
+13
+00:00:49,960 --> 00:00:56,220
+<b><i>If you breathe deeply and close your eyes</i></b>
+
+14
+00:00:49,960 --> 00:00:56,220
+<b>{\an8}<i>fukaku iki wo suikonde hitomi tojireba</i></b>
+
+15
+00:00:56,260 --> 00:01:03,060
+<b><i>What emerges is the path your soul reveals</i></b>
+
+16
+00:00:56,260 --> 00:01:03,060
+<b>{\an8}<i>ukabiagaru no wa tamashii no shimesu michi</i></b>
+
+17
+00:01:03,390 --> 00:01:09,820
+<b><i>Reach out your hand, cut through the wind</i></b>
+
+18
+00:01:03,390 --> 00:01:09,820
+<b>{\an8}<i>iza te wo nobashite kaze wo kirisaite</i></b>
+
+19
+00:01:09,860 --> 00:01:14,400
+<b><i>Kick away the darkness</i></b>
+
+20
+00:01:09,860 --> 00:01:14,400
+<b>{\an8}<i>kurayami wo kettobashite</i></b>
+
+21
+00:01:15,530 --> 00:01:18,570
+<b><i>I do it for my own</i></b>
+
+22
+00:01:15,530 --> 00:01:18,570
+<b>{\an8}<i>ima boku wa boku no tame ni</i></b>
+
+23
+00:01:18,620 --> 00:01:22,290
+<b><i>And you do yours, don't we?</i></b>
+
+24
+00:01:18,620 --> 00:01:22,290
+<b>{\an8}<i>kimi wa kimi no tame ni sou darou</i></b>
+
+25
+00:01:22,790 --> 00:01:26,580
+<b><i>And I'm ready for it</i></b>
+
+26
+00:01:22,790 --> 00:01:26,580
+<b>{\an8}<i>kakugo wa dekiteiru sa</i></b>
+
+27
+00:01:26,620 --> 00:01:32,130
+<b><i>With the support of someone I can rely</i></b>
+
+28
+00:01:26,620 --> 00:01:32,130
+<b>{\an8}<i>toki ni tayoriaeru youna sonzai ni sasaerare</i></b>
+
+29
+00:01:32,170 --> 00:01:39,050
+<b><i>Seize the future beyond your imagination</i></b>
+
+30
+00:01:32,170 --> 00:01:39,050
+<b>{\an8}<i>souzou wo koeta mirai tsukamitore</i></b>
+
+31
+00:01:39,090 --> 00:01:45,480
+<b><i>Reach out your hand, cut through the wind</i></b>
+
+32
+00:01:39,090 --> 00:01:45,480
+<b>{\an8}<i>iza te wo nobashite kaze wo kirisaite</i></b>
+
+33
+00:01:45,520 --> 00:01:51,270
+<b><i>Kick away the darkness</i></b>
+
+34
+00:01:45,520 --> 00:01:51,270
+<b>{\an8}<i>kurayami wo kettobashite</i></b>
+
+35
+00:01:51,320 --> 00:01:54,650
+<b><i>We'll go wherever we wanna go</i></b>
+
+36
+00:01:51,320 --> 00:01:54,650
+<b>{\an8}<i>bokura wa dokomade mo yukeru</i></b>
+
+37
+00:01:54,690 --> 00:01:58,610
+<b><i>Tears and doubts in tow</i></b>
+
+38
+00:01:54,690 --> 00:01:58,610
+<b>{\an8}<i>namida mo mayoi mo isso hikitsurete</i></b>
+
+39
+00:01:58,660 --> 00:02:04,620
+<b><i>Let's paint it in our own colors</i></b>
+
+40
+00:01:58,660 --> 00:02:04,620
+<b>{\an8}<i>onore no iro de egaite yuke</i></b>
+
+41
+00:02:12,540 --> 00:02:14,920
+<b><i>The Tobi Roppo and the Lead Performers.</i></b>
+
+42
+00:02:15,260 --> 00:02:20,050
+<b><i>The allied armies led by the Straw Hats
+eliminated them all.</i></b>
+
+43
+00:02:23,430 --> 00:02:29,020
+<b><i>However, they're cornered by
+the formidable Emperors of the Sea!</i></b>
+
+44
+00:02:30,900 --> 00:02:34,690
+<b>Bring it on,
+shitheads of the Worst Generation!</b>
+
+45
+00:02:37,360 --> 00:02:40,990
+<b><i>Luffy vs. Kaido!
+The fierce fight speeds up!</i></b>
+
+46
+00:02:42,530 --> 00:02:45,370
+<b>I'm sick of hearing Gum-Gum!</b>
+
+47
+00:02:45,490 --> 00:02:48,330
+<b>Roc Gun!</b>
+
+48
+00:03:19,990 --> 00:03:22,160
+<b>It's getting fun!</b>
+
+49
+00:03:25,120 --> 00:03:26,620
+<b>I feel the same!</b>
+
+50
+00:03:28,950 --> 00:03:35,170
+<b><i>"Drunken Dragon Bagua!
+The Lawless Dragon Closing in on Luffy"</i></b>
+
+51
+00:04:14,330 --> 00:04:16,460
+<b>The clash is so intense...</b>
+
+52
+00:04:16,960 --> 00:04:19,050
+<b>Onigashima is shaking!</b>
+
+53
+00:04:28,970 --> 00:04:30,810
+<b>I can do it!</b>
+
+54
+00:04:31,560 --> 00:04:33,600
+<b>I am sure I can!</b>
+
+55
+00:04:34,690 --> 00:04:36,060
+<b>Onigashima...</b>
+
+56
+00:04:36,690 --> 00:04:40,860
+<b>...will be stopped
+by me, Kozuki Momonosuke!</b>
+
+57
+00:04:49,030 --> 00:04:51,790
+<b>{\an8}FLOWER CAPITAL, LAND OF WANO</b>
+
+58
+00:05:23,940 --> 00:05:25,570
+<b>That hit the spot!</b>
+
+59
+00:05:25,700 --> 00:05:28,570
+<b>Limit yourself.
+You're drinking too much!</b>
+
+60
+00:05:28,700 --> 00:05:33,620
+<b>Idiot! It's the only day of the year
+we get to drink!</b>
+
+61
+00:05:36,670 --> 00:05:38,040
+<b>You're right.</b>
+
+62
+00:05:38,170 --> 00:05:42,920
+<b>Other than that,
+living in this country is miserable...</b>
+
+63
+00:05:43,880 --> 00:05:45,340
+<b>Hey, Orochi!</b>
+
+64
+00:05:45,470 --> 00:05:47,590
+<b>--You wastrel lord...
+--Hey, stop it!</b>
+
+65
+00:05:48,970 --> 00:05:51,140
+<b>Public officials can be anywhere...</b>
+
+66
+00:05:51,560 --> 00:05:55,020
+<b>Don't worry about such a thing today.</b>
+
+67
+00:05:55,520 --> 00:05:56,520
+<b>Look.</b>
+
+68
+00:05:57,520 --> 00:06:02,610
+<b>They started preparing Sky Ships...
+The festival is coming to an end.</b>
+
+69
+00:06:08,450 --> 00:06:10,070
+<b>There are so many lanterns!</b>
+
+70
+00:06:11,870 --> 00:06:13,200
+<b>{\an8}HOPE I CAN FEED MY CHILDREN EVERY DAY</b>
+
+71
+00:06:13,330 --> 00:06:14,830
+<b>{\an8}I WANT TO SEE MY MOM</b>
+
+72
+00:06:20,920 --> 00:06:25,340
+<b>Write down your wish
+to your deceased ancestors.</b>
+
+73
+00:06:25,710 --> 00:06:27,340
+<b>What should I wish for?</b>
+
+74
+00:06:27,970 --> 00:06:31,390
+<b>Why don't you write your wish, too?</b>
+
+75
+00:06:32,350 --> 00:06:34,680
+<b>Will my wish come true?</b>
+
+76
+00:06:35,220 --> 00:06:36,390
+<b>Yes.</b>
+
+77
+00:06:36,430 --> 00:06:40,900
+<b>Your ancestors in heaven
+will find the floating Sky Ship,</b>
+
+78
+00:06:41,310 --> 00:06:43,610
+<b>and make your wish come true.</b>
+
+79
+00:06:46,280 --> 00:06:48,150
+<b>Will Daddy read it?</b>
+
+80
+00:06:49,150 --> 00:06:50,990
+<b>Of course, he will.</b>
+
+81
+00:06:54,740 --> 00:06:56,370
+<b>My wish...</b>
+
+82
+00:06:57,040 --> 00:06:58,290
+<b>Oh, yeah!</b>
+
+83
+00:06:58,330 --> 00:07:02,290
+<b>I wanna be able to
+make people laugh more!</b>
+
+84
+00:07:02,420 --> 00:07:04,250
+<b>That's a good one!</b>
+
+85
+00:07:04,380 --> 00:07:08,050
+<b>Uh-huh! I wanna be like Dad!</b>
+
+86
+00:07:08,090 --> 00:07:10,510
+<b>Someone who can cheer everyone up!</b>
+
+87
+00:07:10,550 --> 00:07:16,390
+<b>So, I wanna become
+a good dancer like Dad.</b>
+
+88
+00:07:16,430 --> 00:07:17,890
+<b>And...</b>
+
+89
+00:07:45,750 --> 00:07:48,960
+<b>I wrote down my wish!</b>
+
+90
+00:07:49,090 --> 00:07:50,420
+<b>Let's see...</b>
+
+91
+00:07:52,300 --> 00:07:55,970
+<b>{\an8}I WANNA SEE YOU, DAD</b>
+
+92
+00:07:53,050 --> 00:07:55,970
+<b>I wanna be like Dad,</b>
+
+93
+00:07:56,010 --> 00:08:01,270
+<b>but more than anything,
+I wanna see him!</b>
+
+94
+00:08:03,850 --> 00:08:08,150
+<b>Dad will find my Sky Ship, right?</b>
+
+95
+00:08:08,570 --> 00:08:10,610
+<b>And my wish will come true.</b>
+
+96
+00:08:15,990 --> 00:08:17,370
+<b>I think so.</b>
+
+97
+00:08:18,540 --> 00:08:22,410
+<b><i>I'm sure your Sky Ship
+will look more dazzling...</i></b>
+
+98
+00:08:22,460 --> 00:08:25,750
+<b><i>...to Yasuie-</i>dono<i> than anything else...</i></b>
+
+99
+00:08:47,810 --> 00:08:49,650
+<b>It's a nice night.</b>
+
+100
+00:08:51,150 --> 00:08:54,650
+<b>A full moon in the sky.
+An enemy on the earth.</b>
+
+101
+00:08:55,070 --> 00:08:57,280
+<b>They're both superb.</b>
+
+102
+00:08:57,320 --> 00:09:00,330
+<b>There aren't many nights like this.</b>
+
+103
+00:09:06,080 --> 00:09:08,790
+<b>Why are you drinking booze now?!</b>
+
+104
+00:09:11,300 --> 00:09:13,050
+<b>Because I'm having fun.</b>
+
+105
+00:09:13,550 --> 00:09:16,220
+<b>Be serious! We're not playing around!</b>
+
+106
+00:09:17,640 --> 00:09:20,640
+<b>It's the Fire Festival today
+in the capital.</b>
+
+107
+00:09:20,680 --> 00:09:23,640
+<b>We were supposed to have a big banquet
+on Onigashima, too.</b>
+
+108
+00:09:24,020 --> 00:09:27,350
+<b>But you guys messed it all up...</b>
+
+109
+00:09:28,060 --> 00:09:29,690
+<b>Do you want some?</b>
+
+110
+00:09:30,020 --> 00:09:31,780
+<b>I don't really like to drink!</b>
+
+111
+00:09:32,230 --> 00:09:33,860
+<b>What are you, a kid?</b>
+
+112
+00:09:34,570 --> 00:09:37,990
+<b>Let's have a great time together.</b>
+
+113
+00:09:38,110 --> 00:09:40,240
+<b>I won't have one with you.</b>
+
+114
+00:09:40,280 --> 00:09:44,950
+<b>After I take you down,
+I'll have a nice big banquet with everyone!</b>
+
+115
+00:09:45,710 --> 00:09:48,000
+<b>Sounds like fun!</b>
+
+116
+00:09:49,880 --> 00:09:55,260
+<b>I hope you can have that nice big banquet!</b>
+
+117
+00:09:55,800 --> 00:09:58,010
+<b>Looks like you're feeling good.</b>
+
+118
+00:09:58,340 --> 00:10:00,390
+<b>Are you drunk?!</b>
+
+119
+00:10:01,810 --> 00:10:06,520
+<b>As if I'd get drunk
+from just this amount of booze!</b>
+
+120
+00:10:08,310 --> 00:10:10,480
+<b>My big banquet...</b>
+
+121
+00:10:11,060 --> 00:10:15,900
+<b>How dare you mess up my banquet!</b>
+
+122
+00:10:20,990 --> 00:10:22,780
+<b>Straw Hat!</b>
+
+123
+00:10:41,090 --> 00:10:43,140
+<b>You <i>are</i> drunk!</b>
+
+124
+00:10:48,430 --> 00:10:53,360
+<b>If you're gonna drink,
+why not let loose?</b>
+
+125
+00:10:55,320 --> 00:10:56,990
+<b>Straw Hat!</b>
+
+126
+00:11:01,660 --> 00:11:03,780
+<b>What are you doing?!</b>
+
+127
+00:11:07,950 --> 00:11:10,120
+<b>Can you really fight like that?!</b>
+
+128
+00:11:11,250 --> 00:11:14,750
+<b>Even if you lose,
+don't use an excuse like "I was drunk"!</b>
+
+129
+00:11:19,550 --> 00:11:21,760
+<b>You idiot!</b>
+
+130
+00:11:26,260 --> 00:11:30,440
+<b>Why would I wanna make myself weak?</b>
+
+131
+00:11:31,190 --> 00:11:33,610
+<b>I've accepted you!</b>
+
+132
+00:11:35,190 --> 00:11:37,150
+<b>Gum-Gum...</b>
+
+133
+00:11:46,870 --> 00:11:49,450
+<b>Drunken Dragon Bagua!</b>
+
+134
+00:11:48,910 --> 00:11:49,950
+<b>{\an8}DRUNKEN DRAGON BAGUA</b>
+
+135
+00:11:50,710 --> 00:11:51,500
+<b>What?!</b>
+
+136
+00:11:52,870 --> 00:11:55,130
+<b>I'm feeling good!</b>
+
+137
+00:11:55,590 --> 00:12:02,510
+<b>When was the last time I met someone
+who could really go toe-to-toe with me?</b>
+
+138
+00:12:15,190 --> 00:12:17,650
+<b>Lightning Hammered!</b>
+
+139
+00:12:15,190 --> 00:12:17,650
+<b>{\an8}LIGHTNING HAMMERED</b>
+
+140
+00:12:19,730 --> 00:12:22,530
+<b>Ragnaraku!</b>
+
+141
+00:13:20,290 --> 00:13:24,510
+<b>This place is no longer of use...</b>
+
+142
+00:13:26,970 --> 00:13:29,140
+<b>The island is all screwed up...</b>
+
+143
+00:13:29,640 --> 00:13:33,600
+<b>It's fun, but at the same time,
+the castle is half destroyed.</b>
+
+144
+00:13:34,100 --> 00:13:38,810
+<b>Damn... I can't even save my castle...</b>
+
+145
+00:13:39,610 --> 00:13:41,480
+<b>I think now I'm not so...</b>
+
+146
+00:13:42,360 --> 00:13:43,440
+<b>I'm not so...</b>
+
+147
+00:13:44,690 --> 00:13:46,740
+<b>We gotta rebuild...</b>
+
+148
+00:13:47,660 --> 00:13:51,990
+<b>It took five years to build it!</b>
+
+149
+00:13:51,700 --> 00:13:53,790
+<b>{\an8}DROWNING HIS SORROWS</b>
+
+150
+00:13:59,920 --> 00:14:01,380
+<b>That hurt!</b>
+
+151
+00:14:01,790 --> 00:14:03,420
+<b>That bastard!</b>
+
+152
+00:14:03,840 --> 00:14:05,380
+<b>Damn...</b>
+
+153
+00:14:07,550 --> 00:14:09,300
+<b>Are you really drunk?!</b>
+
+154
+00:14:13,060 --> 00:14:16,850
+<b>I sold weapons here and there,</b>
+
+155
+00:14:16,890 --> 00:14:20,900
+<b>and even formed
+the world's strongest army with Smiles...</b>
+
+156
+00:14:21,560 --> 00:14:24,860
+<b>I did my best!</b>
+
+157
+00:14:28,360 --> 00:14:32,240
+<b>I lowered my guard! I'm so dumb!</b>
+
+158
+00:14:34,410 --> 00:14:37,960
+<b>But maybe I can't do this anymore...</b>
+
+159
+00:14:42,170 --> 00:14:44,960
+<b>I've been trying so hard...</b>
+
+160
+00:14:45,000 --> 00:14:46,380
+<b>Why...</b>
+
+161
+00:14:46,760 --> 00:14:48,760
+<b>Why is this happening to me?!</b>
+
+162
+00:14:48,880 --> 00:14:51,010
+<b>Gum-Gum...!</b>
+
+163
+00:14:53,760 --> 00:14:57,850
+<b>I want everything to be destroyed!</b>
+
+164
+00:14:59,560 --> 00:15:02,860
+<b>Dragon Twister Demolition Breath!</b>
+
+165
+00:15:20,750 --> 00:15:22,750
+<b>He's flailing around as he pleases!</b>
+
+166
+00:15:26,250 --> 00:15:31,050
+<b>Leave me alone!</b>
+
+167
+00:15:34,430 --> 00:15:35,720
+<b>What are you talking about?!</b>
+
+168
+00:15:35,850 --> 00:15:37,680
+<b>It's a shame and regretful!</b>
+
+169
+00:15:37,720 --> 00:15:42,020
+<b>I'm doomed! I... I...</b>
+
+170
+00:15:57,410 --> 00:15:59,660
+<b>Leave me alone!</b>
+
+171
+00:15:59,700 --> 00:16:02,040
+<b>You fool!</b>
+
+172
+00:16:01,330 --> 00:16:03,370
+<b>{\an8}TEARS IN HIS BEER</b>
+
+173
+00:16:07,800 --> 00:16:09,510
+<b>It's too late for you to whine!</b>
+
+174
+00:16:12,090 --> 00:16:15,510
+<b>If you don't leave me alone, take this!</b>
+
+175
+00:16:17,930 --> 00:16:20,310
+<b>I'll shatter everything into pieces!</b>
+
+176
+00:16:27,940 --> 00:16:31,530
+<b>Why's everything so annoying?!</b>
+
+177
+00:16:35,160 --> 00:16:39,870
+<b>My son ran away...
+He even attacked his parent...</b>
+
+178
+00:16:39,910 --> 00:16:44,210
+<b>Damn! Nothing goes right!</b>
+
+179
+00:16:45,830 --> 00:16:47,920
+<b>This is so unfair!</b>
+
+180
+00:16:54,550 --> 00:16:56,340
+<b>It's hard to stay focused...</b>
+
+181
+00:16:58,220 --> 00:17:00,010
+<b>It's all...</b>
+
+182
+00:17:01,930 --> 00:17:04,020
+<b>...your fault!</b>
+
+183
+00:17:08,770 --> 00:17:09,770
+<b>What?!</b>
+
+184
+00:17:23,250 --> 00:17:25,250
+<b>{\an8}LIGHTNING HAMMERED</b>
+
+185
+00:17:33,260 --> 00:17:36,590
+<b>Isn't it fun to struggle
+over life and death?</b>
+
+186
+00:17:39,430 --> 00:17:41,760
+<b>Dance with me some more!</b>
+
+187
+00:17:49,770 --> 00:17:54,900
+<b>How could you challenge me
+again and again?!</b>
+
+188
+00:17:54,940 --> 00:18:00,280
+<b>Straw Hat! I think you like me too much!</b>
+
+189
+00:18:01,080 --> 00:18:02,950
+<b>Thunder...</b>
+
+190
+00:18:03,660 --> 00:18:05,410
+<b>...Bagua!</b>
+
+191
+00:18:14,260 --> 00:18:16,340
+<b>Take this, you drunk ass!</b>
+
+192
+00:18:54,880 --> 00:18:56,880
+<b>His Haki is getting stronger!</b>
+
+193
+00:18:59,050 --> 00:19:01,300
+<b>It's fun to be drunk...</b>
+
+194
+00:19:03,890 --> 00:19:06,850
+<b>Stop trying to sober me up!</b>
+
+195
+00:19:07,680 --> 00:19:09,850
+<b>{\an8}DRUNKEN RAGE</b>
+
+196
+00:19:21,070 --> 00:19:23,410
+<b>Be more creative!</b>
+
+197
+00:19:23,450 --> 00:19:25,740
+<b>It's not entertaining at all!</b>
+
+198
+00:19:25,790 --> 00:19:27,750
+<b>Make it more exciting!</b>
+
+199
+00:19:38,210 --> 00:19:40,840
+<b>Gum-Gum...</b>
+
+200
+00:19:42,970 --> 00:19:44,720
+<b>Kundali...</b>
+
+201
+00:19:45,760 --> 00:19:48,390
+<b>Roc Gatling!</b>
+
+202
+00:19:48,430 --> 00:19:51,190
+<b>Dragon Swarm!</b>
+
+203
+00:20:52,960 --> 00:20:56,290
+<b>{\an8}SACRED MARIJOA, RED LINE</b>
+
+204
+00:20:55,920 --> 00:21:00,250
+<b>This year's Reverie is cursed.</b>
+
+205
+00:21:00,800 --> 00:21:03,470
+<b>The total abolition of
+the Seven Warlords of the Sea...</b>
+
+206
+00:21:04,260 --> 00:21:06,930
+<b>The incident concerning
+the Kingdom of Alabasta...</b>
+
+207
+00:21:07,510 --> 00:21:10,640
+<b>The Revolutionary Army's
+infiltration of Marijoa...</b>
+
+208
+00:21:10,770 --> 00:21:13,100
+<b>Leave that aside for now.</b>
+
+209
+00:21:13,230 --> 00:21:22,030
+<b>{\an8}THE FIVE ELDERS
+HIGHEST AUTHORITIES OF THE WORLD</b>
+
+210
+00:21:14,770 --> 00:21:17,690
+<b>What we must deal with immediately
+is the Land of Wano.</b>
+
+211
+00:21:17,810 --> 00:21:22,030
+<b>Who would imagine that
+the battle would get that intense?</b>
+
+212
+00:21:22,150 --> 00:21:24,280
+<b>We must do something now.</b>
+
+213
+00:21:25,110 --> 00:21:28,240
+<b>They must have captured Nico Robin by now.</b>
+
+214
+00:21:29,030 --> 00:21:31,700
+<b>In a battle against Kaido and Big Mom,</b>
+
+215
+00:21:32,200 --> 00:21:34,790
+<b>death is to be expected.</b>
+
+216
+00:21:35,210 --> 00:21:37,080
+<b>Must be erased!</b>
+
+217
+00:21:37,120 --> 00:21:42,380
+<b>And the existence of
+that Devil Fruit as well.</b>
+
+218
+00:21:46,430 --> 00:21:48,930
+<b>{\an8}OFF THE COAST OF THE LAND OF WANO</b>
+
+219
+00:21:49,510 --> 00:21:52,220
+<b><i>Maintain combat readiness
+until further notice.</i></b>
+
+220
+00:21:52,260 --> 00:21:54,480
+<b><i>All ships, remain on standby.</i></b>
+
+221
+00:22:17,290 --> 00:22:18,710
+<b>Sir...</b>
+
+222
+00:22:18,830 --> 00:22:19,830
+<b><i>What is it?</i></b>
+
+223
+00:22:20,630 --> 00:22:24,510
+<b>Well, I see a giant shadow...</b>
+
+224
+00:22:24,630 --> 00:22:27,130
+<b><i>A shadow? What is it?</i></b>
+
+225
+00:22:28,090 --> 00:22:29,220
+<b>I don't know.</b>
+
+226
+00:22:30,720 --> 00:22:32,300
+<b><i>What are you talking about?</i></b>
+
+227
+00:22:33,010 --> 00:22:35,180
+<b>A-An island?!</b>
+
+228
+00:22:36,140 --> 00:22:38,190
+<b>No, that's impossible!</b>
+
+229
+00:22:38,230 --> 00:22:42,730
+<b>That fruit became a mere legend,
+even to us now.</b>
+
+230
+00:22:45,110 --> 00:22:49,070
+<b>It hasn't awakened for centuries.</b>
+
+231
+00:22:49,570 --> 00:22:51,910
+<b>Then, why did the World Government...</b>
+
+232
+00:22:51,950 --> 00:22:56,580
+<b>...bother giving that Devil Fruit
+another name?!</b>
+
+233
+00:23:10,090 --> 00:23:14,050
+<b>To hide its name from history.</b>
+
+234
+00:23:18,730 --> 00:23:22,270
+<b><i>Kid and Law are an under all-out attack
+from a heavyweight.</i></b>
+
+235
+00:23:22,310 --> 00:23:26,320
+<b><i>Is the ambition to overthrow
+the Emperor of the Sea just a youthful mistake?!</i></b>
+
+236
+00:23:26,360 --> 00:23:29,820
+<b><i>Just dreaming about defeating the Emperor of the Sea,
+they must pay the price in despair,</i></b>
+
+237
+00:23:29,860 --> 00:23:35,410
+<b><i>but an insistent magnetic force of rebellion
+awakens the soul of a beast lying in metal scraps!</i></b>
+
+238
+00:23:36,620 --> 00:23:38,000
+<b>On the next episode of One Piece!</b>
+
+239
+00:23:38,040 --> 00:23:41,710
+<b>"The Destruction of the Alliance?!
+Fire up, the Will of the New Generation!"</b>
+
+240
+00:23:41,750 --> 00:23:45,630
+<b>I'm gonna become the King of the Pirates!</b>
+
+241
+00:23:45,630 --> 00:23:47,630
+<b></b>
+
+242
+00:23:47,630 --> 00:23:49,630
+<b></b>
+
